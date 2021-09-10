@@ -2,7 +2,7 @@
 
 > **Balanced Depth Completion between Dense Depth Inference and Sparse Range Measurements via KISS-GP**
 >
-> [Sungho Yoon](http://www0.cs.ucl.ac.uk/staff/C.Godard/), [Ayoung Kim](http://vision.caltech.edu/~macaodha/)
+> Sungho Yoon, Ayoung Kim
 >
 > [IROS 2020 (arXiv pdf)](https://arxiv.org/abs/2008.05158)  / [Video Link](https://www.youtube.com/watch?v=x8n0lvjvorg)
 
