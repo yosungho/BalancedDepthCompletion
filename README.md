@@ -1,4 +1,4 @@
-# Two-Stage Depth Completion to handle Sparse or Biased LiDAR data
+## Two-Stage Depth Completion to handle Sparse or Biased LiDAR data
 
 > **Balanced Depth Completion between Dense Depth Inference and Sparse Range Measurements via KISS-GP**
 >
